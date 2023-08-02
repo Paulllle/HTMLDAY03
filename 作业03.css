@@ -149,3 +149,6 @@ body{
   color: #000;
   font-weight: bold;
 }
+.article-img img:hover{
+  filter:brightness(120%);
+}
